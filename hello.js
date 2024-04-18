@@ -8,5 +8,7 @@ console.log(cc)
 console.log(aa)
 for(let i =0; i<aa.length;i++){
     console.log(aa[i]+" ")
-}
+    }
+    var l = "Tabish" 
+
 
